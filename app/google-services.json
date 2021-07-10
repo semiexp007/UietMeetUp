@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2765754015",
+    "project_id": "uietfunzone",
+    "storage_bucket": "uietfunzone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2765754015:android:8d1ae6651a49c2b1d09caa",
+        "android_client_info": {
+          "package_name": "com.example.uietmeetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2765754015-g3grgvna6418pvcernm77h29js1fts20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR38ZO3nKoJoXbCOhi78UbY4nkdDc4_yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2765754015-g3grgvna6418pvcernm77h29js1fts20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

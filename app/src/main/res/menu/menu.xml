@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@android:drawable/star_big_on"
+        android:title="Home"
+        android:visible="true" />
+    <item
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="History"
+        android:visible="true" />
+    <item
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Settings" />
+    <item
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="LogOut" />
+</menu>
