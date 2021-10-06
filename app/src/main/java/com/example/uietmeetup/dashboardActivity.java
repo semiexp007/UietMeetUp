@@ -14,7 +14,7 @@ import org.jitsi.meet.sdk.JitsiMeetConferenceOptions;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class dashboardActivity extends AppCompatActivity {
+public class dashboardActivity {
 
    EditText code;
    Button sharebtn,joinbtn;

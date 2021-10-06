@@ -17,7 +17,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FirebaseFirestore;
 
-public class signup extends AppCompatActivity {
+public class signup {
     FirebaseAuth auth;
 
     FirebaseFirestore database;
